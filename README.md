@@ -33,8 +33,8 @@ Mobile design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Dunniola/Social-proof-section/git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Demo](https://github.com/Dunniola/Social-proof-section/git)
+- Live Site URL: [Github App](https://dunniola.github.io/Social-proof-section/)
 
 ## My process
 
@@ -48,6 +48,6 @@ Mobile design
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Dunniola](https://dunniola.github.io/Social-proof-section/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
